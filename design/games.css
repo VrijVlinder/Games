@@ -1,0 +1,25 @@
+   
+#Body {
+margin:0 auto;
+background:transparent!important;
+width:100%;
+height: auto!important;
+} 
+   
+#Content {
+width: 980px!important;
+margin: 0 auto;
+float: none!important;
+}
+#Panel{
+display:none!important;
+}
+
+    
+#Foot {
+background:none transparent!important;
+}
+#Foot ul#Menu {
+width: 100%;
+margin:0 auto;
+}
